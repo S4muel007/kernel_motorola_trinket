@@ -29,6 +29,7 @@
 #include <linux/smpboot.h>
 #include <linux/relay.h>
 #include <uapi/linux/sched/types.h>
+#include <linux/highmem.h>
 #include <linux/slab.h>
 #include <linux/percpu-rwsem.h>
 #include <linux/cpuset.h>
